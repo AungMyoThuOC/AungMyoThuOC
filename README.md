@@ -18,7 +18,7 @@
   <img src="https://media.tenor.com/mxginb24fIgAAAAd/one-piecce-luffy.git" width="518px" height="291.375" alt="One Piece Luffy GIF - One Piece Luffy 1050 GIFs" style="max-width: 518px;">
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>

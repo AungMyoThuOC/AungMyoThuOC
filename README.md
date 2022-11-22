@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 - 👂 My name is AungMyoThu.
 - 👩 Pronouns: OniiChan.
 - 🔭 I’m currently working on TastySoft
@@ -9,5 +12,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- <div class="tenor-gif-embed" data-postid="25530407" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/one-piece-luffy-1015-gif-25530407">One Piece Luffy GIF</a>from <a href="https://tenor.com/search/one+piece-gifs">One Piece GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+- 
 -->

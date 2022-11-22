@@ -1,12 +1,8 @@
 ### Hi there 👋
-
-<!--
-**AungMyoThuOC/AungMyoThuOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👂 My name is AungMyoThu.
+- 👩 Pronouns: OniiChan.
+- 🔭 I’m currently working on TastySoft
+- 🌱 I’m currently learning TastySoft
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -76,7 +76,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoThuOC&theme=noctis_minimus&layout=compact" />
 </a>
 
-<!-- ![Snake animation](https://github.com/AungMyoThuOC/AungMyoThuOC/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/AungMyoThuOC/AungMyoThuOC/blob/output/github-contribution-grid-snake.gif)
   
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

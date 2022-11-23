@@ -21,13 +21,13 @@
 
 <i>A curated list of awesome AungMyoThuOC</i>
 
-<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/AungMyoThuOC" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/AungMyoThuOC" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/AungMyoThuOC" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/AungMyoThuOC" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/AungMyoThuOC?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/AungMyoThuOC?color=2b9348" alt="License Badge"/></a>
-<a href="https://github.com/abhisheknaiidu//blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/AungMyoThuOC?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/AungMyoThuOC/AungMyoThuOC/stargazers"><img src="https://img.shields.io/github/stars/AungMyoThuOC/AungMyoThuOC" alt="Stars Badge"/></a>
+<a href="https://github.com/AungMyoThuOC/AungMyoThuOC/network/members"><img src="https://img.shields.io/github/forks/AungMyoThuOC/AungMyoThuOC" alt="Forks Badge"/></a>
+<a href="https://github.com/AungMyoThuOC/AungMyoThuOC/pulls"><img src="https://img.shields.io/github/issues-pr/AungMyoThuOC/AungMyoThuOC" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/AungMyoThuOC/AungMyoThuOC/issues"><img src="https://img.shields.io/github/issues/AungMyoThuOC/AungMyoThuOC" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/AungMyoThuOC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AungMyoThuOC/AungMyoThuOC?color=2b9348"></a>
+<a href="https://github.com/AungMyoThuOC/AungMyoThuOC/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AungMyoThuOC/AungMyoThuOC?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/AungMyoThuOC//blob/master/LICENSE"><img src="https://img.shields.io/github/license/AungMyoThuOC/AungMyoThuOC?color=2b9348" alt="License Badge"/></a>
 
 <h1>
   hey there

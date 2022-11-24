@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <br>
 
-<i>A curated list of awesome AungMyoThuOC</i>
+<i>A curated list of awesome OniiChan</i>
 
 <a href="https://github.com/AungMyoThuOC/AungMyoThuOC/stargazers"><img src="https://img.shields.io/github/stars/AungMyoThuOC/AungMyoThuOC" alt="Stars Badge"/></a>
 <a href="https://github.com/AungMyoThuOC/AungMyoThuOC/network/members"><img src="https://img.shields.io/github/forks/AungMyoThuOC/AungMyoThuOC" alt="Forks Badge"/></a>

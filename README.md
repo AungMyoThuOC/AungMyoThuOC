@@ -61,7 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> -->
 
-  <h6 align="left">:fire:&nbsp; My Stats : Onii Chan no baka</h6>
+  <h6 align="left">:fire:&nbsp; My Stats : Onii CHAN no baka</h6>
   <h2 align="left"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>

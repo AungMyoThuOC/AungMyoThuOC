@@ -33,7 +33,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- 👂 Hello OniiCHAN.
+ 👂 Hello 
 <div class="Gif" align="center" style="width: 518px; height: 291.375px;">
   <img src="https://media.tenor.com/mxginb24fIgAAAAd/one-piecce-luffy.git" width="518px" height="291.375" alt="One Piece Luffy GIF - One Piece Luffy 1050 GIFs" style="max-width: 518px;">
 </div>

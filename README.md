@@ -111,10 +111,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoThuOC&theme=noctis_minimus&layout=compact" />
 </a>
 
-<!--![snake gif](https://github.com/AungMyoThuOC/AungMyoThuOC/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/AungMyoThuOC/AungMyoThuOC/blob/output/github-contribution-grid-snake.gif) 
 
 <!-- <img alt="snake eating my contributions" src="http://raw.githubusercontent.com/AungMyoThuOC/AungMyoThuOC/output/github-contribution-grid-snake.svg" /> -->
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/AungMyoThuOC/AungMyoThuOC/output/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+<!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif) -->
   
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

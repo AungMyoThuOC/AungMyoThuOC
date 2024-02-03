@@ -111,7 +111,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoThuOC&theme=noctis_minimus&layout=compact" />
 </a>
 
-![snake gif](https://github.com/AungMyoThuOC/AungMyoThuOC/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/AungMyoThuOC/AungMyoThuOC/blob/output/github-contribution-grid-snake.gif) -->
+
+<img alt="snake eating my contributions" src="http://raw.githubusercontent.com/AungMyoThuOC/AungMyoThuOC/output/github-contribution-grid-snake.svg" />
   
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
